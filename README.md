@@ -4,12 +4,14 @@ Animal Crossing: Luxurious Horizons is a modification of Animal Crossing New Hor
 
 # WIP
 
-If you have any requests, please leave them [here](https://gitlab.com/Kyusetzu/ACLH/-/issues/new?issue%5Bmilestone_id%5D=)!
+If you have any requests, please leave them [here on Github](https://gitlab.com/Kyusetzu/ACLH/-/issues/new?issue%5Bmilestone_id%5D=)!
 
 You may look into [Animal Crossing: Welcome Luxury](https://gitlab.com/Kyusetzu/ACWL) in the meantime!
 
 # Features
-- Custom Title
+- Custom Title Screen
 - Recolored Icons
 - Unlimited Boat Rides
 - Cheaper Boat Rides
+
+and more to come!
