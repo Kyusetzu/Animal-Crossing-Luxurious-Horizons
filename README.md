@@ -10,6 +10,7 @@ You may look into [Animal Crossing: Welcome Luxury](https://gitlab.com/Kyusetzu/
 
 # Features
 - Custom Title Screen
+- Custom Music
 - Recolored Icons
 - Unlimited Boat Rides
 - Cheaper Boat Rides
