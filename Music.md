@@ -1,34 +1,34 @@
 #WIP
 # Hourly Music
 
-| **In-game Track** | **Artist - Song**                                                                                                    |
-|-------------------|----------------------------------------------------------------------------------------------------------------------|
-| Hour 00 (12 AM)   | [Birocratic - Silently Storming](https://www.youtube.com/watch?v=OTuJ0t7CTcg)                                        |
-| Hour 01 (01 AM)   | [Bomberman 64 - Rainbow Palace Theme](https://www.youtube.com/watch?v=2X6b71onnxM)                                   |
-| Hour 02 (02 AM)   | [Bomberman 64 - Blue Resort Theme](https://www.youtube.com/watch?v=kLU2JA1XBG8)                                      |
-| Hour 03 (03 AM)   | [Pikuniku - The Forest](https://calumbowen.bandcamp.com/track/the-forest)                                            |
-| Hour 04 (04 AM)   | [Flower, Sun, and Rain - Gymnopedie#1](https://www.youtube.com/watch?v=qrPUGkLIhV8)                                  |
-| Hour 05 (05 AM)   | [Kanooli - Induction](https://www.youtube.com/watch?v=T40uSkpVkME)                                                   |
-| Hour 06 (06 AM)   | [Weatherscan - Track 31](https://www.youtube.com/watch?v=_tAAcfcZkzc)                                                |
-| Hour 07 (07 AM)   | [Given Names - Breakfast food for people who like dinner](https://www.youtube.com/watch?v=cwSkC92v0F8)               |
-| Hour 08 (08 AM)   | [Zencha - Good Morning](https://zencha.bandcamp.com/track/good-morning)                                              |
-| Hour 09 (09 AM)   | [Bruno E. - Sunny Morning](https://www.youtube.com/watch?v=jwI3eVg-nWM)                                              |
-| Hour 10 (10 AM)   | [Ridge Racer Type 4 - Silhouette Dance](https://www.youtube.com/watch?v=epQgEagvVMA)                                 |
-| Hour 11 (11 AM)   | [Mike Relm - Rescate](https://www.youtube.com/watch?v=sO_cPowOpYk)                                                   |
-| Hour 12 (12 PM)   | [Zencha - Good Evening](https://zencha.bandcamp.com/track/good-evening)                                              |
-| Hour 13 (01 PM)   | [Otis McDonald - We Made It](https://www.youtube.com/watch?v=yfMkpB8WAr4)                                            |
-| Hour 14 (02 PM)   | [Ridge Racer Type 4 - Quiet Curves](https://www.youtube.com/watch?v=pIOPZXV7I9w)                                     |
-| Hour 15 (03 PM)   | [Pikuniku - The Forest Town](https://calumbowen.bandcamp.com/track/the-forest-town)                                  |
-| Hour 16 (04 PM)   | [The 25th Ward: The Silver Case - Bergamote](https://www.youtube.com/watch?v=qShGwpLeVck)                            |
-| Hour 17 (05 PM)   | [MagiCXBeats - Moon Light City](https://www.youtube.com/watch?v=XfNXBoDBTNE)                                         |
-| Hour 18 (06 PM)   | [Art of Balance - World F](https://www.youtube.com/watch?v=xI9EyhmXAAA)                                              |
-| Hour 19 (07 PM)   | [Tatsuhiko Asano - Night Light](https://www.youtube.com/watch?v=GkSE77sIcW8)                                         |
-| Hour 20 (08 PM)   | [Soundodger - Daisy Wheel](https://www.youtube.com/watch?v=TIo8PoSM2uM)                                              |
-| Hour 21 (09 PM)   | [In the wake of Doshin the GIANT - Yellow Giant (Reprise)](https://www.youtube.com/watch?v=-9Ng6dTpxCw)              |
-| Hour 22 (10 PM)   | [Veritas - The Solstice](https://www.youtube.com/watch?v=Yo_Yf68f-4w)                                                |
-| Hour 23 (11 PM)   | [Pikuniku - Trophies](https://www.youtube.com/watch?v=jqd5J1Boj5E)                                                   |
-| Hour ## (Rainy)   | [Lifeformed - Swimming While It Rains](https://lifeformed.bandcamp.com/track/swimming-while-it-rains)                |
-| Hour ## (Snowy)   | [Lifeformed - It's Not Supposed to be Snowing](https://lifeformed.bandcamp.com/track/its-not-supposed-to-be-snowing) |
+| **In-game Track** | **Artist - Song**                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------------|
+| Hour 00 (12 AM)   | [Birocratic - Silently Storming](https://www.youtube.com/watch?v=OTuJ0t7CTcg)                           |
+| Hour 01 (01 AM)   | [Chouchou - Lunaria](https://www.youtube.com/watch?v=a58XnLoUgSY)                                       |
+| Hour 02 (02 AM)   | [Masafumi Komatsu - Reflection](https://www.youtube.com/watch?v=Q1hRQj_kP7k)                            |
+| Hour 03 (03 AM)   | [AC: New Leaf - 4 AM](https://www.youtube.com/watch?v=2-5ljZpuyaI)                                      |
+| Hour 04 (04 AM)   | [Suzuo - Heavenly](https://www.youtube.com/watch?v=KUSWLvJMgyE)                                         |
+| Hour 05 (05 AM)   | [Flower, Sun, and Rain - Gymnopedie#1](https://www.youtube.com/watch?v=qrPUGkLIhV8)                     |
+| Hour 06 (06 AM)   | [DJ Okawari - One For U](https://www.youtube.com/watch?v=ibbm1XDqv7Q)                                   |
+| Hour 07 (07 AM)   | [Given Names - Breakfast food for people who like dinner](https://www.youtube.com/watch?v=cwSkC92v0F8)  |
+| Hour 08 (08 AM)   | [Yutaka Hirasaka - Breathing](https://www.youtube.com/watch?v=aOXA55V3cK4)                              |
+| Hour 09 (09 AM)   | [Junya Nakano - Sampo](https://www.youtube.com/watch?v=WwsO5Hmoxzc)                                     |
+| Hour 10 (10 AM)   | [Ridge Racer Type 4 - Silhouette Dance](https://www.youtube.com/watch?v=epQgEagvVMA)                    |
+| Hour 11 (11 AM)   | [Mike Relm - Rescate](https://www.youtube.com/watch?v=sO_cPowOpYk)                                      |
+| Hour 12 (12 PM)   | [Zencha - Good Evening](https://zencha.bandcamp.com/track/good-evening)                                 |
+| Hour 13 (01 PM)   | [Otis McDonald - We Made It](https://www.youtube.com/watch?v=yfMkpB8WAr4)                               |
+| Hour 14 (02 PM)   | [Hazzy - Breath Of Love](https://www.youtube.com/watch?v=lRgGiS2CHec)                                   |
+| Hour 15 (03 PM)   | [Yutaka Hirasaka - Letter](https://www.youtube.com/watch?v=wqMgDFE-zMw)                                 |
+| Hour 16 (04 PM)   | [Akisai - Bless](https://www.youtube.com/watch?v=QMITIQUvkhg)                                           |
+| Hour 17 (05 PM)   | [Paniyolo - Color](https://www.youtube.com/watch?v=Cl8a9b76GMg)                                         |
+| Hour 18 (06 PM)   | [Art of Balance - World F](https://www.youtube.com/watch?v=xI9EyhmXAAA)                                 |
+| Hour 19 (07 PM)   | [Tatsuhiko Asano - Night Light](https://www.youtube.com/watch?v=GkSE77sIcW8)                            |
+| Hour 20 (08 PM)   | [Disasterpeace - Daisy Wheel](https://www.youtube.com/watch?v=TIo8PoSM2uM)                              |
+| Hour 21 (09 PM)   | [In the wake of Doshin the GIANT - Yellow Giant (Reprise)](https://www.youtube.com/watch?v=-9Ng6dTpxCw) |
+| Hour 22 (10 PM)   | [Veritas - The Solstice](https://www.youtube.com/watch?v=Yo_Yf68f-4w)                                   |
+| Hour 23 (11 PM)   | [Pikuniku - Trophies](https://www.youtube.com/watch?v=jqd5J1Boj5E)                                      |
+| Hour ## (Rainy)   | [Lifeformed - Swimming While It Rains](https://lifeformed.bandcamp.com/track/swimming-while-it-rains)   |
+| Hour ## (Snowy)   | [Sayuri Komi - The Place In Which I Am](https://www.youtube.com/watch?v=YbOf3IgDpgg)                    |
 
 # WIP
 # Buildings
